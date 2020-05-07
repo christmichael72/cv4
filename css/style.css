@@ -1,0 +1,161 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #58b4ae;
+}
+
+h1{
+  font-family: 'Indie Flower', cursive;
+  font-size: 5.625em;
+}
+h2{
+  font-size: 3em;
+}
+h3{
+  font-size: 2em;
+  font-family: 'Roboto', sans-serif;
+  margin-top: 10px;
+  font-weight: normal;
+}
+
+.top-container{
+  margin: 0;
+  background-color: #c3edea;
+  position: relative;
+}
+
+p{
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+#R{
+  margin-left: 16px;
+  margin-right: 8px;
+}
+
+span{
+  margin-left: 16px;
+  margin-right: 16px;
+}
+
+.topMenu{
+  text-align: right;
+  position: absolute;
+  right: 20px;
+}
+
+#fp{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+.top-title{
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding-top: 100px;
+}
+
+.top-description{
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+hr {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+#f2{
+  height: 300px;
+  width: 400px;
+}
+
+#f3{
+  padding-top: 50px;
+  height: 250px;
+  width: 250px;
+}
+
+.middle-opening{
+  width: 50%;
+  margin:auto;
+}
+
+#f4{
+  height: 200px;
+  width: 200px;
+  margin-right: 50px;
+  float: left;
+}
+
+.Riwayat-Pendidikan{
+  width: 70%;
+  margin: auto;
+  margin-top: 100px;
+  text-align: left;
+}
+
+#f5{
+  height: 100px;
+  width: 100px;
+  margin-right: 50px;
+  float: right;
+}
+
+.Organisasi{
+  width: 70%;
+  margin: auto;
+  margin-top: 100px;
+  text-align: left;
+}
+
+#f6{
+  height: 150px;
+  width: 150px;
+  margin-right: 50px;
+  float: left;
+}
+
+.Skill{
+  width: 70%;
+  margin: auto;
+  margin-top: 100px;
+  text-align: left;
+}
+
+.bottom-container{
+  margin: 0;
+  margin-bottom: 200px;
+  background-color: #c3edea;
+  position: relative;
+  height: 150px;
+}
+
+.bottomMenu{
+  font-size: 16px;
+}
+
+.bottomMenu2{
+  font-size: 16px;
+  color: black;
+}
+
+#bottom{
+  margin-top: 10px;
+  margin-bottom: 100px;
+  border-color: #00a1ab;
+  border-style: none;
+  border-top-style: inset;
+  border-width: 2px;
+  width: 10%;
+}
